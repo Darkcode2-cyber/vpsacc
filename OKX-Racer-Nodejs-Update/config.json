@@ -1,0 +1,9 @@
+{
+    "numberOfConcurrentTasks": 500,
+    "retryInterval": 5000,
+    "maxRetries": 3,
+    "referer": "https://www.okx.com/mini-app/racer?tgWebAppStartParam=linkCode_43664003",
+    "linkCode": "43664003",
+    "upgradeFuelTank": true,
+    "upgradeTurbo": true
+}
