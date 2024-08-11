@@ -1,5 +1,7 @@
 # Made with ❤
 # Join tele channel for update t.me/dancayairdroptool
+# -*- coding: utf-8 -*-
+
 import requests
 import time
 from colorama import Fore, Style, init
@@ -10,7 +12,6 @@ init(autoreset=True)
 
 def print_welcome_message():
     print(Fore.GREEN + Style.BRIGHT + "YesCoin (Gold) BOT")
-    print(Fore.YELLOW + Style.BRIGHT + "Free Join Telegram Channel: https://t.me/dancayairdroptool")
 # Load tokens from file
 def load_tokens(file_path):
     with open(file_path, 'r') as file:
