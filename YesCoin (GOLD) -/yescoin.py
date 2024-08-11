@@ -1,6 +1,6 @@
+# -*- coding: utf-8 -*-
 # Made with ❤
 # Join tele channel for update t.me/dancayairdroptool
-# -*- coding: utf-8 -*-
 
 import requests
 import time
